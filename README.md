@@ -33,9 +33,9 @@ Before you can run the program, ensure you have the following installed:
 1. **Clone the Repository:**  
    Use the following command to clone the repository to your local machine:  
    ```bash  
-   git clone https://github.com/USERNAME/REPOSITORY_NAME.git  
+   git clone https://github.com/Rajdeep-006/Contact-Book-Management-with-pyhton.git  
    ```  
-   *(Replace `USERNAME` and `REPOSITORY_NAME` with your actual GitHub username and repository name.)*
+   
 
 2. **Navigate to the Project Folder:**  
    Move into the project directory:  
